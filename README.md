@@ -7,7 +7,7 @@ Virnus is a powerful command-line tool for quickly generating Vue.js components 
 To install Virnus globally, use the following npm command:
 
 ```  
-npm install vue-artisan
+npm install @virnus/vue-artisan
 ```
 
 ## Usage

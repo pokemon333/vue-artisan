@@ -1,5 +1,5 @@
 {
-  "name": "vue-artisan",
+  "name": "@virnus/vue-artisan",
   "version": "1.0.0",
   "description": "Artisan tool for vue",
   "main": "index.js",
