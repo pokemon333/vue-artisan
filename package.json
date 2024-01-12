@@ -1,0 +1,24 @@
+{
+  "name": "vue-artisan",
+  "version": "1.0.0",
+  "description": "Artisan tool for vue",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "virnus": "./index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokemon333/vue-artisan.git"
+  },
+  "keywords": [
+    "vue-artisan"
+  ],
+  "author": "virnus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokemon333/vue-artisan/issues"
+  },
+  "homepage": "https://github.com/pokemon333/vue-artisan#readme"
+}
