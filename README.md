@@ -25,12 +25,13 @@ virnus make:component -ocMdm <ComponentName>
 To generate a Vue page, use the following command:
 
 ```  
-virnus make:page -ocMdm <ComponentName> 
+virnus make:page -ocMdm <PageName> 
 ```
 
 
 - `<ComponentName>`: Specify the name of the component you want to create.
-
+- `<PageName>`: Specify the name of the page you want to create.
+  
 Options:
 
 - `o`: vue option
